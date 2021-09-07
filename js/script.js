@@ -28,7 +28,7 @@ setTimeout(function(){
         numeriEsatti.push(y);
         }
     }
-    return console.log('Hai azzecato ' + numeriEsatti.length + ' Numeri, i seguenti: ' + numeriEsatti);
+     console.log('Hai azzecato ' + numeriEsatti.length + ' Numeri, i seguenti: ' + numeriEsatti);
 }, 30000);
 /* function timer(){
     let listaScelte = [];
